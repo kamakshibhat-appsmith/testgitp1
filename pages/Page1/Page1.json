@@ -29,28 +29,12 @@
         "layoutOnLoadActions": [
           [
             {
-              "id": "Page1_Select_public_users1",
-              "name": "Select_public_users1",
+              "id": "Page1__$QueryModule1_1$_QueryModule1",
+              "name": "_$QueryModule1_1$_QueryModule1",
               "confirmBeforeExecute": false,
               "pluginType": "DB",
               "jsonPathKeys": [
-                "Table1.searchText",
-                "Table1.sortOrder.order !== \"desc\" ? \"\" : \"DESC\"",
-                "Table1.sortOrder.column || 'id'",
-                "Table1.pageSize",
-                "Table1.pageOffset"
-              ],
-              "timeoutInMillisecond": 10000
-            }
-          ],
-          [
-            {
-              "id": "Page1_Total_record_public_users1",
-              "name": "Total_record_public_users1",
-              "confirmBeforeExecute": false,
-              "pluginType": "DB",
-              "jsonPathKeys": [
-                "Table1.searchText"
+                "QueryModule1_1.inputs.input1"
               ],
               "timeoutInMillisecond": 10000
             }
