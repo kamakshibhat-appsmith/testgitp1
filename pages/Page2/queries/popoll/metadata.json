@@ -8,7 +8,7 @@
     "name": "_$popoll$_QueryModule1",
     "pageId": "Page2",
     "contextType": "PAGE",
-    "executeOnLoad": false,
+    "executeOnLoad": true,
     "isValid": true,
     "invalids": [],
     "messages": [],

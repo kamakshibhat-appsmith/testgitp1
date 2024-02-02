@@ -85,7 +85,7 @@
         "created_at",
         "updated_at"
     ],
-    "dynamicPropertyPathList": [],
+    "dynamicPropertyPathList": [{"key": "tableData"}],
     "displayName": "Table",
     "bottomRow": 46,
     "columnWidthMap": {},
