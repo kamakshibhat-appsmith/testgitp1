@@ -1,0 +1,20 @@
+{
+  "moduleUUID": "65bcc5868c8c0f2b586d6390",
+  "type": "QUERY_MODULE",
+  "unpublishedModuleInstance": {
+    "version": "0.0.13",
+    "name": "pipi",
+    "contextType": "PAGE",
+    "pageId": "Page1",
+    "inputs": {
+      "input1": "99"
+    },
+    "jsonPathKeys": [],
+    "isValid": true,
+    "invalids": [],
+    "userPermissions": []
+  },
+  "id": "Page1_pipi",
+  "deleted": false,
+  "gitSyncId": "65bcc3548cfbaa6bea934c62_65bcc59d8c8c0f2b586d63d1"
+}
