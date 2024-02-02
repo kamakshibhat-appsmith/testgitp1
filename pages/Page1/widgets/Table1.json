@@ -476,7 +476,7 @@
     "textSize": "0.875rem",
     "widgetId": "1d10zd94bf",
     "minWidth": 450,
-    "tableData": "{{Select_public_users1.data}}",
+    "tableData": "{{QueryModule1_2.data}}",
     "label": "Data",
     "searchKey": "",
     "parentId": "0",
