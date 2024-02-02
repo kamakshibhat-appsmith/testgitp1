@@ -29,12 +29,16 @@
         "layoutOnLoadActions": [
           [
             {
-              "id": "Page1__$QueryModule1_1$_QueryModule1",
-              "name": "_$QueryModule1_1$_QueryModule1",
+              "id": "Page1_Select_public_users1",
+              "name": "Select_public_users1",
               "confirmBeforeExecute": false,
               "pluginType": "DB",
               "jsonPathKeys": [
-                "QueryModule1_1.inputs.input1"
+                "Table1.searchText",
+                "Table1.sortOrder.order !== \"desc\" ? \"\" : \"DESC\"",
+                "Table1.sortOrder.column || 'id'",
+                "Table1.pageSize",
+                "Table1.pageOffset"
               ],
               "timeoutInMillisecond": 10000
             }
