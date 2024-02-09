@@ -29,6 +29,18 @@
         "layoutOnLoadActions": [
           [
             {
+              "id": "Page1__$JSModule1_2$_JSModule1.myFun1",
+              "name": "_$JSModule1_2$_JSModule1.myFun1",
+              "collectionId": "Page1__$JSModule1_2$_JSModule1",
+              "clientSideExecution": true,
+              "confirmBeforeExecute": false,
+              "pluginType": "JS",
+              "jsonPathKeys": [
+                "function () {\n  return 11;\n}"
+              ],
+              "timeoutInMillisecond": 10000
+            },
+            {
               "id": "Page1__$QueryModule1_2$_QueryModule1",
               "name": "_$QueryModule1_2$_QueryModule1",
               "confirmBeforeExecute": false,
