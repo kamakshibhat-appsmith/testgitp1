@@ -1,6 +1,6 @@
 {
   "gitSyncId": "66b9d7d353c44917f2eeba44_21b2df36-997a-4eac-8319-f5a7c77ff842",
-  "id": "Indian Premier League (IPL)_GetAllCountries",
+  "id": "Indian Premier League_GetAllCountries",
   "pluginId": "postgres-plugin",
   "pluginType": "DB",
   "unpublishedAction": {
@@ -24,8 +24,8 @@
     },
     "dynamicBindingPathList": [],
     "name": "GetAllCountries",
-    "pageId": "Indian Premier League (IPL)",
-    "runBehaviour": "ON_PAGE_LOAD",
+    "pageId": "Indian Premier League",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }
