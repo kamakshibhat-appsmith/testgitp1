@@ -16,10 +16,10 @@
       "name": "UNUSED_DATASOURCE",
       "pluginId": "js-plugin"
     },
-    "executeOnLoad": false,
     "fullyQualifiedName": "_$JSModule1_1$_JSModule1.myFun1",
     "name": "myFun1",
     "pageId": "Page1",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }

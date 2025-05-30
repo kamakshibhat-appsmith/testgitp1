@@ -14,9 +14,9 @@
       "name": "Users",
       "pluginId": "postgres-plugin"
     },
-    "executeOnLoad": true,
     "name": "_$Query2$_QueryModule1",
     "pageId": "Page2",
+    "runBehaviour": "ON_PAGE_LOAD",
     "userSetOnLoad": false
   }
 }
