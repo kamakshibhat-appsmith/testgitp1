@@ -1,0 +1,1 @@
+Select * from public.users WHERE country = {{Select1.selectedOptionValue}} OR {{Select1.selectedOptionValue}} = ''
